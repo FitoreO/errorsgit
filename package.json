@@ -1,0 +1,19 @@
+{
+  "name": "veeck",
+  "version": "1.0.0",
+  "main": "errors.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "utf-8": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
